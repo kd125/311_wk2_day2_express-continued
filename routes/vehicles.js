@@ -1,5 +1,4 @@
 const router = require("express").Router();
-const vehicles = require("../data/vehicles");
 
 const vehiclesController = require("../controllers/vehicles");
 

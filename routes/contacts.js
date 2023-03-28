@@ -1,5 +1,4 @@
 const router = require("express").Router();
-const contacts = require("../data/contacts");
 
 const contactsController = require("../controllers/contacts");
 
